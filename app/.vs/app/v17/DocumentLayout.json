@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|c:\\users\\user-local\\downloads\\c# curso\\entregas\\app\\app\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|solutionrelative:app\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|solutionrelative:app\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|solutionrelative:app\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|solutionrelative:app\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\services\\ventaservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72215D24-3D94-44A0-B461-BC1DDB188050}|app\\app.csproj|solutionrelative:app\\services\\ventaservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "app\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "app\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:23:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoVendidoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "app\\Controllers\\ProductoVendidoController.cs",
+              "ToolTip": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "app\\Controllers\\ProductoVendidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:23:19.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "app\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "app\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T16:16:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "app\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "app\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:11:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaServise.cs",
+              "DocumentMoniker": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Services\\VentaServise.cs",
+              "RelativeDocumentMoniker": "app\\Services\\VentaServise.cs",
+              "ToolTip": "C:\\Users\\USER-LOCAL\\Downloads\\c# curso\\entregas\\app\\app\\Services\\VentaServise.cs",
+              "RelativeToolTip": "app\\Services\\VentaServise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:15:50.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
